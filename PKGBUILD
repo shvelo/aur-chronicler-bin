@@ -7,7 +7,7 @@ arch=('x86_64')
 license=('PolyForm-Shield-1.0.0')
 depends=('webkit2gtk-4.1' 'gtk3')
 provides=("chronicler")
-url="https://chronicler.pro/"
+url="https://github.com/mak-kirkland/chronicler"
 source=(
     "https://github.com/mak-kirkland/chronicler/releases/download/v${pkgver}-alpha/Chronicler_${pkgver}_amd64.deb"
     "https://raw.githubusercontent.com/mak-kirkland/chronicler/refs/heads/master/LICENSE"
