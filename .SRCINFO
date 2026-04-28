@@ -1,15 +1,16 @@
 pkgbase = chronicler-bin
-	pkgdesc = A worldbuilding application
-	pkgver = 0.49.2
+	pkgdesc = The free offline worldbuilding tool for writers and GMs.
+	pkgver = 0.50.0
 	pkgrel = 1
+	url = https://chronicler.pro/
 	arch = x86_64
 	license = PolyForm-Shield-1.0.0
 	depends = webkit2gtk-4.1
 	depends = gtk3
-	provides = chronicler-bin
-	source = https://github.com/mak-kirkland/chronicler/releases/download/v0.49.2-alpha/Chronicler_0.49.2_amd64.deb
+	provides = chronicler
+	source = https://github.com/mak-kirkland/chronicler/releases/download/v0.50.0-alpha/Chronicler_0.50.0_amd64.deb
 	source = https://raw.githubusercontent.com/mak-kirkland/chronicler/refs/heads/master/LICENSE
-	sha256sums = 494adfbf794da7b0e7d732d36212e768e84c1e0d50d69add75df155fbae234ff
-	sha256sums = SKIP
+	sha256sums = 040f363d91f7720de5672c356ceaddfd225e4b0af28681c68d104a6b81600a0d
+	sha256sums = 4b4b7f846a2a8865f82a40eb0c475f534c9c044bd202536ad35e1060bd27dc5d
 
 pkgname = chronicler-bin
