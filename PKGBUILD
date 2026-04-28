@@ -1,8 +1,8 @@
-# Maintainer: 
+# Maintainer: Nikoloz Shvelidze <shveloo@gmail.com>
 pkgname=chronicler-bin
 pkgver=0.49.2
 pkgrel=1
-pkgdesc=""
+pkgdesc="A worldbuilding application"
 arch=('x86_64')
 license=('PolyForm-Shield-1.0.0')
 depends=('webkit2gtk-4.1' 'gtk3')
